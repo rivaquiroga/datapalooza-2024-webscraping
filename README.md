@@ -2,7 +2,13 @@
 
 Este es el repositorio del taller sobre "Web scraping con Python" para el evento **Datapalooza 2024**, organizado por [Data UC](https://datascience.uc.cl/). En este taller aprenderemos a implementar la técnica de extracción de datos conocida como web scraping sobre sitios web estáticos usando la librería Beautiful Soup.
 
-![](img/datapalooza.jpg)
+</br>
+</br>
+
+<p align="center">
+  <img width="600" src="img/datapalooza.jpg">
+</p>
+
 
 ## Preparación 
 
