@@ -4,7 +4,7 @@ Materiales del taller sobre "Web scraping con Python" de Datapalooza 2024. En es
 
 ## Preparación 
 
-Para realizar las actividades planificadas necesitarás las librerías `request`, `beautifulsoup4` y `pandas`. Se pueden instalar desde [PyPI](https://pypi.org/) con `pip`. 
+Para realizar las actividades planificadas necesitarás las librerías `request`, `beautifulsoup4`, `lxml` y `pandas`. Se pueden instalar desde [PyPI](https://pypi.org/) con `pip`. 
 
 ```
 pip install beautifulsoup4
