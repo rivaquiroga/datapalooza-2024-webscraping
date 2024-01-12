@@ -2,7 +2,7 @@
 
 Durante el taller realizaremos algunos ejercicios para poner en práctica lo aprendido. Iremos escribiendo el código "en vivo" en la clase, por lo que el contenido de los archivos con código se irá actualizando a medida que escribamos en ellos. 
 
-### Ejercicio 1: extraer datos de un sitio "mínimo"
+### Ejercicio 1: extraer datos de un sitio "mínimo" y estructurarlos
 
 :link: [Página web](https://rivaquiroga.github.io/datapalooza-2024-webscraping/ejercicio-1/pagina.html)
 
