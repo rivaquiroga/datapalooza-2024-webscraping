@@ -4,27 +4,22 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 
 ### Ejercicio 1: extraer datos de un sitio "mínimo"
 
-:link: [Página web]()
+:link: [Página web](https://rivaquiroga.github.io/datapalooza-2024-webscraping/ejercicio-1/pagina.html)
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/54io0t0iw0ecdnmlj2m5k/ejercicio-01.py?rlkey=4omo6d8imfee3v4m992ndwj7m&dl=0)
 
-:sparkles: [Versión final del código]()
+:sparkles: Versión final del código (¡Pronto!)
 
 ### Ejercicio 2: extraer tablas
 
 :link: [Página web](https://www.worldometers.info/world-population/population-by-country/) 
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/vdx1fkx97ozczxjqi0rfv/ejercicio-02.py?rlkey=07sqxhayaqqtr1t44858tff8r&dl=0)
 
 ### Demo uso selenium 
 
 :link: [Página web ejemplo a](https://www.camara.cl/transparencia/oficinasparlamentarias.aspx) / [Página web ejemplo b](https://www.memoriachilena.gob.cl)
 
-:page_facing_up: [Código ejemplo]()
+:page_facing_up: Código (¡Pronto!)
 
-## Recursos adicionales
 
-### Documentación librerías utilizadas
-[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-
-[Selenium](https://www.selenium.dev/documentation/)
