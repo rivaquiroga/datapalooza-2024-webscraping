@@ -45,4 +45,24 @@ Los siguientes atajos de teclado serán útiles al explorar las páginas web que
 
 ## Actividades
 
-Acá quedarán los enlaces al código y materiales que utilizaremos en la sesión. 
+## Enlaces ejemplos
+
+A lo largo de la sesión revisaremos algunos sitios web a modo de ejemplo o para discutir algunas ideas. Los compartiremos por el chat de Zoom y quedarán acá también como referencia.
+
+:link: [Sitio web estático](https://datascience.uc.cl/que-es-ciencia-de-datos)
+
+:link: [Sitio web dinámico](https://www.camara.cl/transparencia/asesoriasexternasgral.aspx)
+
+:link: [Condiciones de uso](https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou) 
+
+:link: [Licenciamiento y uso del contenido 1](http://programminghistorian.org/es/)
+
+:link: [Licenciamiento y uso del contenido 2](https://prensa.presidencia.cl/)
+
+:link: [robots.txt](https://www.memoriachilena.gob.cl/robots.txt)
+
+## Actividades
+
+SIDE WORKSHOP: viernes 12 de enero, online
+
+HACKER STAGE: sábado 13 de enero, campus San Joaquín
