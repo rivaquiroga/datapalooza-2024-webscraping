@@ -63,6 +63,6 @@ A lo largo de la sesión revisaremos algunos sitios web a modo de ejemplo o para
 
 ## Actividades
 
-SIDE WORKSHOP: viernes 12 de enero, online
+[SIDE WORKSHOP: viernes 12 de enero, online](https://github.com/rivaquiroga/datapalooza-2024-webscraping/blob/main/side-workshop-online.md)
 
 HACKER STAGE: sábado 13 de enero, campus San Joaquín
