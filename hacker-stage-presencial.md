@@ -15,13 +15,6 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 
 :page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/dguzd1z0d3akqwhsx4jkb/ejercicio-02.py?rlkey=4wm88dc6qmcgr6pguutlhsn3o&dl=0)
 
-### Ejercicio 3: extraer enlaces para descargar múltiples archivos
-
-:link: [Página web](https://www.memoriachilena.gob.cl/602/w3-article-644324.html#documentos) 
-
-:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/0omsa2pu4w551z5gvlffz/ejercicio-03.py?rlkey=u4zzshmdwv03chdhp4ob0c8o0&dl=0)
-
-
 ### Demo uso selenium 
 
 :link: [Página web ejemplo](https://www.camara.cl/transparencia/oficinasparlamentarias.aspx)
