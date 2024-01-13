@@ -11,7 +11,7 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 
 ### Ejercicio 2: extraer tablas
 
-:link: [Página web](https://www.worldometers.info/world-population/population-by-country/) 
+:link: [Ejemplo 1 tabla](https://www.worldometers.info/world-population/population-by-country/) / [Ejemplo de más de una tabla](https://es.wikipedia.org/wiki/Anexo:Libros_m%C3%A1s_vendidos)
 
 :page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/dguzd1z0d3akqwhsx4jkb/ejercicio-02.py?rlkey=4wm88dc6qmcgr6pguutlhsn3o&dl=0)
 
