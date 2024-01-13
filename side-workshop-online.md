@@ -18,7 +18,7 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 
 ### Demo uso selenium 
 
-:link: [Página web ejemplo a](https://www.camara.cl/transparencia/oficinasparlamentarias.aspx) / [Página web ejemplo b](https://www.memoriachilena.gob.cl)
+:link: [Página web ejemplo](https://www.camara.cl/transparencia/oficinasparlamentarias.aspx)
 
 :page_facing_up: Código (¡Pronto!)
 
